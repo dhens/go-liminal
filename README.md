@@ -1,2 +1,2 @@
 # go-liminal
-A web request rate limiting server written in Go
+A rate limiter written in Go
